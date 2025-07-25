@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+SQLAlchemy
+python-dotenv
+prometheus-client
+aiocache
+kafka-python
+pytest
+httpx
